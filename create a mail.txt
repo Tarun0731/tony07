@@ -1,0 +1,8 @@
+username
+password
+DOB
+Mail id
+mobile number
+Country
+
+
